@@ -6,6 +6,7 @@ Bu proje, **.NET 9** kullanılarak geliştirilen basit bir **Gemini AI entegrasy
 - Gemini API ile doğal dil işleme
 - Minimum yapılandırma: sadece API anahtarını girmen yeterli
 
+Umarım faydalı olur .
 
 
 
