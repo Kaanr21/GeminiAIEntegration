@@ -1,0 +1,83 @@
+﻿@{
+    ViewData["Title"] = "Gemini AI Chat";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header bg-primary text-white">
+                    <h3 class="mb-0">Gemini AI ile Sohbet</h3>
+                </div>
+                <div class="card-body">
+                    <div id="chatMessages" class="mb-4" style="height: 400px; overflow-y: auto;">
+                        <!-- Mesajlar buraya eklenecek -->
+                    </div>
+                    <div class="input-group">
+                        <input type="text" id="messageInput" class="form-control" placeholder="Mesajınızı yazın...">
+                        <button class="btn btn-primary" id="sendButton">Gönder</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        document.getElementById('sendButton').addEventListener('click', sendMessage);
+        document.getElementById('messageInput').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                sendMessage();
+            }
+        });
+
+        function appendMessage(message, isUser) {
+            const chatMessages = document.getElementById('chatMessages');
+            const messageDiv = document.createElement('div');
+            messageDiv.className = `d-flex ${isUser ? 'justify-content-end' : 'justify-content-start'} mb-2`;
+            
+            const messageContent = document.createElement('div');
+            messageContent.className = `p-2 rounded ${isUser ? 'bg-primary text-white' : 'bg-light'}`;
+            messageContent.style.maxWidth = '75%';
+            messageContent.style.wordWrap = 'break-word';
+            messageContent.textContent = message;
+            
+            messageDiv.appendChild(messageContent);
+            chatMessages.appendChild(messageDiv);
+            chatMessages.scrollTop = chatMessages.scrollHeight;
+        }
+
+        async function sendMessage() {
+            const messageInput = document.getElementById('messageInput');
+            const message = messageInput.value.trim();
+            
+            if (message) {
+                appendMessage(message, true);
+                messageInput.value = '';
+                
+                try {
+                    const response = await fetch('/api/Gemini/generate', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json',
+                        },
+                        body: JSON.stringify({ prompt: message })
+                    });
+                    
+                    if (response.ok) {
+                        const data = await response.json();
+                        appendMessage(data.response, false);
+                    } else {
+                        appendMessage('Üzgünüm, bir hata oluştu.', false);
+                        console.error('Hata:', response.statusText);
+                        console.error('Hata detayları:', response.status);
+                    }
+                } catch (error) {
+                    console.error('Error:', error);
+                    appendMessage('Üzgünüm, bir hata oluştu.', false);
+                }
+            }
+        }
+    </script>
+}

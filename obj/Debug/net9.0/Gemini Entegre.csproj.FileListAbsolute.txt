@@ -1,0 +1,197 @@
+C:\Users\kaan_\Desktop\Gemini Entegre\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\kaan_\Desktop\Gemini Entegre\bin\Debug\net9.0\appsettings.json
+C:\Users\kaan_\Desktop\Gemini Entegre\bin\Debug\net9.0\Gemini Entegre.staticwebassets.runtime.json
+C:\Users\kaan_\Desktop\Gemini Entegre\bin\Debug\net9.0\Gemini Entegre.staticwebassets.endpoints.json
+C:\Users\kaan_\Desktop\Gemini Entegre\bin\Debug\net9.0\Gemini Entegre.exe
+C:\Users\kaan_\Desktop\Gemini Entegre\bin\Debug\net9.0\Gemini Entegre.deps.json
+C:\Users\kaan_\Desktop\Gemini Entegre\bin\Debug\net9.0\Gemini Entegre.runtimeconfig.json
+C:\Users\kaan_\Desktop\Gemini Entegre\bin\Debug\net9.0\Gemini Entegre.dll
+C:\Users\kaan_\Desktop\Gemini Entegre\bin\Debug\net9.0\Gemini Entegre.pdb
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\Gemini Entegre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\Gemini Entegre.AssemblyInfoInputs.cache
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\Gemini Entegre.AssemblyInfo.cs
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\Gemini Entegre.csproj.CoreCompileInputs.cache
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\Gemini Entegre.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\Gemini Entegre.RazorAssemblyInfo.cache
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\Gemini Entegre.RazorAssemblyInfo.cs
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\scopedcss\bundle\Gemini Entegre.styles.css
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\scopedcss\projectbundle\Gemini Entegre.bundle.scp.css
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\2h9lbl2y8f-b9sayid5wm.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\daf5d0te07-61n19gt1b8.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\6rcpiqugx5-xtxxf3hu2r.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\wha627wvdb-bqjiyaj88i.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\6p5k1l9x87-c2jlpeoesf.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\v06k1f1l6s-erw9l3u2r3.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\jjp9vcyx4o-aexeepp0ev.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\jnvyjx33o0-d7shbmvgxk.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\l9qq1ipsr3-ausgxo2sd3.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\twcwzf1v2m-k8d9w2qqmf.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\lbujxobwsj-cosvhxvwiu.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\km56nadvyu-ub07r2b239.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\lwhxy57jg1-fvhpjtyr6v.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\sl9z81atz4-b7pk76d08c.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\kdnmcftnvl-fsbi9cje9m.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\7a3fv4darp-rzd6atqjts.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\9ag4lyifog-ee0r1s7dh0.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\nxzpffok7i-dxx9fxp4il.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\cwng2qajjt-jd9uben2k1.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\kxd7oabmy6-khv3u5hwcm.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\y7hfjcp6ke-r4e9w2rdcm.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\8l9rf9503v-lcd1t2u6c8.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\psetk334kk-c2oey78nd0.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\0he1jctlxd-tdbxkamptv.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\wy63wwc6mj-j5mq2jizvt.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\f7afsn9es2-06098lyss8.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\9399zpdkxu-nvvlpmu67g.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\s9c1x8bo4z-s35ty4nyc5.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\39ado6e5w1-pj5nd1wqec.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\he5qti24mg-46ein0sx1k.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\pj4jdjigst-v0zj4ognzu.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\b67te9uaq0-37tfw0ft22.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\4k22audoi0-hrwsygsryq.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\2pjmf1l2zh-pk9g2wxc8p.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\bz3w8hyqna-ft3s53vfgj.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\zwxsni8bgj-6cfz1n2cew.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\va5ibf8rg3-6pdc2jztkx.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\cboyf08w9h-493y06b0oq.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\6rdzcyf47c-iovd86k7lj.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\av9ljwwbyj-vr1egmr9el.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\j14ttzzwgw-kbrnm935zg.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\qyrk2zcgkp-jj8uyg4cgr.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\cmge4ifoo4-y7v9cxd14o.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\z3prwalud4-notf2xhcfb.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\t7q38ouhyu-h1s4sie4z3.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\5koiz95qmy-63fj8s7r0e.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\mxfi2f4df3-0j3bgjxly4.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\hogi7eehy0-47otxtyo56.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\8eok6you9q-4v8eqarkd7.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\gptl2ij390-356vix0kms.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\7tiwkq8mwz-83jwlth58m.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\3t3bxe9v7c-mrlpezrjn3.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\a0ltbbtkhj-lzl9nlhx6b.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\454ez6n34e-ag7o75518u.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\p6ipfnaha2-x0q3zqp4vz.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\t5i7o9d8k8-0i3buxo5is.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\j4tadzqi3v-o1o13a6vjx.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\93kjvc732q-ttgo8qnofa.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\yd40eagp8y-2z0ns9nrw6.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\6camijkas8-muycvpuwrr.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\z3r40e5kld-87fc7y1x7t.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\fplk5t59rt-mlv21k5csn.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\60byk43uxo-odozyvqkpk.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\compressed\da44ohjyif-odozyvqkpk.gz
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\staticwebassets\msbuild.Gemini Entegre.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\staticwebassets\msbuild.Gemini Entegre.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\staticwebassets\msbuild.build.Gemini Entegre.props
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Gemini Entegre.props
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Gemini Entegre.props
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\Gemini Entegre.dll
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\refint\Gemini Entegre.dll
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\Gemini Entegre.pdb
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\Gemini Entegre.genruntimeconfig.cache
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\ref\Gemini Entegre.dll
+C:\Users\kaan_\Desktop\Gemini Entegre\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\bin\Debug\net9.0\Gemini Entegre.staticwebassets.endpoints.json
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\bin\Debug\net9.0\appsettings.json
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\bin\Debug\net9.0\Gemini Entegre.staticwebassets.runtime.json
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\bin\Debug\net9.0\Gemini Entegre.exe
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\bin\Debug\net9.0\Gemini Entegre.deps.json
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\bin\Debug\net9.0\Gemini Entegre.runtimeconfig.json
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\bin\Debug\net9.0\Gemini Entegre.dll
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\bin\Debug\net9.0\Gemini Entegre.pdb
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\Gemini Entegre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\Gemini Entegre.AssemblyInfoInputs.cache
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\Gemini Entegre.AssemblyInfo.cs
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\Gemini Entegre.csproj.CoreCompileInputs.cache
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\Gemini Entegre.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\Gemini Entegre.RazorAssemblyInfo.cache
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\Gemini Entegre.RazorAssemblyInfo.cs
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\Gemini Entegre.sourcelink.json
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\scopedcss\bundle\Gemini Entegre.styles.css
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\scopedcss\projectbundle\Gemini Entegre.bundle.scp.css
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\2h9lbl2y8f-b9sayid5wm.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\daf5d0te07-61n19gt1b8.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\6rcpiqugx5-xtxxf3hu2r.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\wha627wvdb-bqjiyaj88i.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\6p5k1l9x87-c2jlpeoesf.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\v06k1f1l6s-erw9l3u2r3.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\jjp9vcyx4o-aexeepp0ev.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\jnvyjx33o0-d7shbmvgxk.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\l9qq1ipsr3-ausgxo2sd3.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\twcwzf1v2m-k8d9w2qqmf.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\lbujxobwsj-cosvhxvwiu.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\km56nadvyu-ub07r2b239.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\lwhxy57jg1-fvhpjtyr6v.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\sl9z81atz4-b7pk76d08c.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\kdnmcftnvl-fsbi9cje9m.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\7a3fv4darp-rzd6atqjts.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\9ag4lyifog-ee0r1s7dh0.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\nxzpffok7i-dxx9fxp4il.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\cwng2qajjt-jd9uben2k1.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\kxd7oabmy6-khv3u5hwcm.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\y7hfjcp6ke-r4e9w2rdcm.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\8l9rf9503v-lcd1t2u6c8.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\psetk334kk-c2oey78nd0.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\0he1jctlxd-tdbxkamptv.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\wy63wwc6mj-j5mq2jizvt.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\f7afsn9es2-06098lyss8.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\9399zpdkxu-nvvlpmu67g.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\s9c1x8bo4z-s35ty4nyc5.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\39ado6e5w1-pj5nd1wqec.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\he5qti24mg-46ein0sx1k.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\pj4jdjigst-v0zj4ognzu.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\b67te9uaq0-37tfw0ft22.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\4k22audoi0-hrwsygsryq.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\2pjmf1l2zh-pk9g2wxc8p.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\bz3w8hyqna-ft3s53vfgj.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\zwxsni8bgj-6cfz1n2cew.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\va5ibf8rg3-6pdc2jztkx.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\cboyf08w9h-493y06b0oq.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\6rdzcyf47c-iovd86k7lj.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\av9ljwwbyj-vr1egmr9el.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\j14ttzzwgw-kbrnm935zg.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\qyrk2zcgkp-jj8uyg4cgr.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\cmge4ifoo4-y7v9cxd14o.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\z3prwalud4-notf2xhcfb.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\t7q38ouhyu-h1s4sie4z3.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\5koiz95qmy-63fj8s7r0e.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\mxfi2f4df3-0j3bgjxly4.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\hogi7eehy0-47otxtyo56.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\8eok6you9q-4v8eqarkd7.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\gptl2ij390-356vix0kms.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\7tiwkq8mwz-83jwlth58m.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\3t3bxe9v7c-mrlpezrjn3.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\a0ltbbtkhj-lzl9nlhx6b.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\454ez6n34e-ag7o75518u.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\p6ipfnaha2-x0q3zqp4vz.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\t5i7o9d8k8-0i3buxo5is.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\j4tadzqi3v-o1o13a6vjx.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\93kjvc732q-ttgo8qnofa.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\yd40eagp8y-2z0ns9nrw6.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\6camijkas8-muycvpuwrr.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\z3r40e5kld-87fc7y1x7t.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\fplk5t59rt-mlv21k5csn.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\60byk43uxo-odozyvqkpk.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\compressed\da44ohjyif-odozyvqkpk.gz
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\staticwebassets\msbuild.Gemini Entegre.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\staticwebassets\msbuild.Gemini Entegre.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\staticwebassets\msbuild.build.Gemini Entegre.props
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Gemini Entegre.props
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Gemini Entegre.props
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\Gemini Entegre.dll
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\refint\Gemini Entegre.dll
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\Gemini Entegre.pdb
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\Gemini Entegre.genruntimeconfig.cache
+C:\Users\kaan_\Documents\GitHub\GeminiAIEntegration\obj\Debug\net9.0\ref\Gemini Entegre.dll

@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Gemini_Entegre.Controllers.GeminiController",
+    "Method": "GenerateContent",
+    "RelativePath": "api/Gemini/generate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Gemini_Entegre.Controllers.PromptRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
